@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @peakfind
-- 👀 I’m interested in Numerical Analysis.
-- 📫 How to reach me peakfind@126.com.
 
 <!---
 peakfind/peakfind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
